@@ -1,0 +1,287 @@
+     A     
+    AAA    
+   AA AA   
+  AA   AA  
+ AAAAAAAAA 
+AA       AA
+AA       AA
+           
+BBBBBBBBB  
+BB       BB
+BB       BB
+BBBBBBBBB  
+BB       BB
+BB       BB
+BBBBBBBBBB 
+           
+   CCCCCC  
+ CC      CC
+CC         
+CC         
+CC         
+ CC      CC
+   CCCCCC  
+           
+DDDDDDDD
+DD      DD
+DD       DD
+DD       DD
+DD       DD
+DD      DD
+DDDDDDDD
+
+EEEEEEEEEEE
+EE
+EE
+EEEEEEEEE
+EE
+EE
+EEEEEEEEEEE
+
+FFFFFFFFFFF
+FF
+FF
+FFFFFFFFF
+FF
+FF
+FF
+
+   GGGGGG
+ GG      GG
+GG
+GG     GGGG 
+GG       GG
+ GG      GG
+   GGGGGG
+
+HH       HH
+HH       HH
+HH       HH
+HHHHHHHHHHH
+HH       HH
+HH       HH
+HH       HH
+
+ IIIIIIIII
+    III
+    III
+    III
+    III
+    III
+ IIIIIIIII
+
+JJJJJJJJJJJ
+      JJ
+      JJ
+      JJ
+      JJ
+JJ    JJ
+  JJJJJ
+
+KK       KK
+KK    KKK
+KK  KK
+KKKK
+KK  KK
+KK    KKK
+KK       KK
+
+LL
+LL
+LL
+LL
+LL
+LL
+LLLLLLLLLLL
+
+MM       MM
+MMM     MMM
+MM MM MM MM
+MM   M   MM
+MM       MM
+MM       MM
+MM       MM
+
+NN       NN
+NNN      NN
+NN NN    NN
+NN  NNN  NN
+NN    NN NN 
+NN      NNN
+NN       NN
+
+   OOOOO
+ OO     OO
+OO       OO
+OO       OO
+OO       OO
+ OO     OO
+   OOOOO
+
+PPPPPPPPP
+PP       PP
+PP       PP
+PPPPPPPPP
+PP
+PP
+PP
+
+   QQQQQ
+ QQ     QQ
+QQ       QQ
+QQ       QQ
+QQ    QQ QQ
+ QQ     QQ
+   QQQQQ QQ
+
+RRRRRRRRR
+RR       RR
+RR       RR
+RRRRRRRRR
+RR RR
+RR   RRR
+RR      RRR
+
+  SSSSSSS
+ SS      SS
+SSS
+  SSSSSSS
+        SSS
+SS       SS
+  SSSSSSS
+
+TTTTTTTTTTT
+    TTT
+    TTT
+    TTT
+    TTT
+    TTT
+    TTT
+
+UU       UU
+UU       UU
+UU       UU
+UU       UU
+UU       UU
+ UU     UU
+   UUUUU
+
+VV       VV
+VV       VV
+ VV     VV
+  VV   VV
+   VV VV
+    VVV
+     V
+
+WW       WW
+WW       WW
+WW       WW
+ WW  W  WW
+ WW W W WW
+  WW   WW
+  WW   WW
+
+XX       XX
+ XX     XX
+   XX XX
+    XXX
+   XX XX
+ XX     XX
+XX       XX
+
+YY       YY
+ YY     YY
+   YY YY
+    YYY
+    YYY
+    YYY
+    YYY
+
+ZZZZZZZZZZZ
+        ZZ
+      ZZ
+    ZZZ
+   ZZ
+ ZZ
+ZZZZZZZZZZZ
+
+   00000
+ 00    000
+00    0  00
+00   0   00
+00  0    00
+ 000    00
+   00000  
+
+     11
+    111
+  11 11
+     11
+     11
+     11
+ 111111111
+
+  2222222
+22       22
+        22
+      22
+    22
+  22 
+22222222222
+
+  3333333
+33       33
+        333
+     3333
+        333
+33       33
+  3333333
+
+      44
+     444
+   44 44
+ 44   44
+44444444444
+      44
+      44
+
+5555555555
+55
+555555555
+        55
+         55
+55      55
+  555555
+
+   666666
+ 66
+66 666666
+666      66
+66       66
+ 66     66
+   66666
+
+77777777777
+        77
+       77
+     77
+   77
+  77
+  77
+
+  8888888
+88       88
+  8888888
+88       88
+88       88
+88       88
+  8888888
+
+   99999
+ 99     99
+99       99
+99      999
+  999999 99
+        99
+  999999

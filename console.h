@@ -1,6 +1,8 @@
 #ifndef _CONSOLE_H_
 #define _CONSOLE_H_
 
+// Console commands for Windows OS
+
 #include <windows.h>
 #include <stdio.h>
 #include <string>
